@@ -74,6 +74,7 @@ A TECHgium project concept exploring non-intrusive monitoring of OTT streaming q
 ## 🤝 Let's Connect
 
 - **GitHub:** [@720825106100-cmyk](https://github.com/720825106100-cmyk)
+- **LinkedIn:** [Sathya Narayanan](https://www.linkedin.com/in/sathya-narayanan-m-368bb8421/)
 - **Project portfolio:** [TRUSTGUARD AI](https://github.com/720825106100-cmyk/TRUSTGUARD-AI)
 
 I'm open to learning, constructive feedback, and collaborating on meaningful beginner-friendly projects.
